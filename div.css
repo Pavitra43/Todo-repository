@@ -1,0 +1,90 @@
+*{
+    box-sizing: content-box;
+    margin: auto;
+    padding: 0;
+    }
+a{
+    color: white;
+    font-size: 40px;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+nav{
+    margin-left: 0px;
+    width: 1500px;
+    padding-left: 0px;
+    padding: 0px;
+    padding-left: 0px;
+ }
+ .container{
+    margin: auto;
+    box-sizing: border-box;
+    margin-bottom: 100px;
+    border: 0px solid black;
+    overflow: auto;
+    background-color:lightgrey;
+    padding: 0;
+    margin:auto;
+    padding-bottom: 0;
+    width: 900px;
+    float: center;
+    padding-bottom: 0px;
+    }  
+.nav{
+    background-color: black;
+    border: 1px solid black;
+    width: 900px;
+    } 
+nav a svg {
+    display:inline-block ;
+    color: white;
+    padding-left: 0px;
+}
+nav a h1{
+    display: inline-block;
+    margin-left: 1px;
+    color: white;
+    }
+    body{
+        background-color:white;
+        margin: auto;
+        }
+.sidebar{
+    padding-top: 20px;
+    
+   float: left; 
+    margin: auto;
+    margin-top: 0px;
+    line-height: 20px;
+background-color:gray;
+    color: white;
+    width: 350px;
+    height: 570px;
+    margin-bottom: 0px;
+}
+div a{
+    font-size: 20px;
+    color: black;
+    text-align: center;
+}
+h1{
+    color: black;
+    margin-left: 20px;
+}
+form input{
+    position:relative;
+    text-align: left;
+    margin-left: 20px;
+    height: 40px;
+    width: 230px;
+}
+button{
+    margin-top: 0px;
+    margin-left: 20px;
+    height: 40px;
+    width: 100px;
+    text-align: center;
+}
+    
+    
+
